@@ -5,8 +5,18 @@
 
 ## Contents
 - [Awesome-Open-World-Object-Detection](#awesome-open-world-object-detection)
-    - [Frameworks](#frameworks)
+  - [Summary](#summary)
+    - [Awesome List](#awesome-list)
+  - [Frameworks](#frameworks)
     
+
+## Summary
+
+  - ### Awesome List
+
+    - [witnessai/Awesome-Open-Vocabulary-Object-Detection](https://github.com/witnessai/Awesome-Open-Vocabulary-Object-Detection) <img src="https://img.shields.io/github/stars/witnessai/Awesome-Open-Vocabulary-Object-Detection?style=social"/> : A curated list of papers, datasets and resources pertaining to open vocabulary object detection. 
+
+
 
 ## Frameworks
 

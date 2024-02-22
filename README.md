@@ -35,10 +35,15 @@
 
   - [buxihuo/OW-YOLO](https://github.com/buxihuo/OW-YOLO) <img src="https://img.shields.io/github/stars/buxihuo/OW-YOLO?style=social"/> : Detect known and unknown objects in the open world（具有区分已知与未知能力的全新检测器））.
 
+  - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
 
 ## Blogs
 
+  - 微信公众号「集智书童」
+    - [2024-02-01，太强！AI没有落下的腾讯出YOLO-World爆款 | 开集目标检测速度提升20倍，效果不减](https://mp.weixin.qq.com/s/Fj6wzARTo1l7UEwKxDAh6w)
+  - 微信公众号「AIWalker」
+    - [2024-02-19，U版YOLO-World来了，YOLOv8再度升级，三行代码上手YOLO-World](https://mp.weixin.qq.com/s/yepStVzyrOE4MsgFFuwo0Q)
   - 微信公众号「SAMLab」
     - [2023-03-31，检测开放世界中的一切：面向通用目标检测](https://mp.weixin.qq.com/s/iOb-_EKnqx02FbugD8bKtQ)
   - 微信公众号「自动驾驶之心」
